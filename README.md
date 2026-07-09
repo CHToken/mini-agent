@@ -33,6 +33,11 @@ cp .env.example .env
 
 You need an `ANTHROPIC_API_KEY` with access to `claude-sonnet-4-5-20250929`.
 
+To run the automated test suite verifying loading, matching, and execution:
+```bash
+npm test
+```
+
 ## Demo instructions
 
 Single command to run:
