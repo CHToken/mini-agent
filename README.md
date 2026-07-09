@@ -31,7 +31,7 @@ cp .env.example .env
 # then put your real key in .env
 ```
 
-You need an `ANTHROPIC_API_KEY` with access to `claude-sonnet-5`.
+You need an `ANTHROPIC_API_KEY` with access to `claude-sonnet-4-5-20250929`.
 
 ## Demo instructions
 
